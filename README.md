@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 Hi, I’m @gutterpupper!
+😄 Pronouns are he / him.
+👀 I’m interested in learning code and growing my skills in data analytics and web design.
+🌱 I’m currently learning JavaScript, Python, and Papyrus, as well as learning how to use GitHub.
+⌨️ I am studying coding to help improve my overall skills in web design.
+🎮 I make personal mods for games like Skyrim and Fallout 4.
+💞️ I’m not looking to collaborate on anything right now. I'm still learning!
+📫 I'm not available to contact.
 
 <!--
 **gutterpupper/gutterpupper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
